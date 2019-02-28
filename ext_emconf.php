@@ -32,9 +32,9 @@ $EM_CONF[$_EXTKEY] = [
     'CGLcompliance_note' => '',
     'constraints'        => [
         'depends' => [
-            'typo3'              => '8.7.0-8.7.99',
-            'static_info_tables' => '6.4.0-6.5.99',
-            'gridelements' => '8.0.0-8.7.99',
+            'typo3'              => '8.7.0-9.6.99',
+            'static_info_tables' => '6.7.0-6.9.99',
+            'gridelements' => '9.0.0-9.9.99',
         ],
         'conflicts' => [
             'belayout_tsprovider' => '0.0.0-1.99.99',
